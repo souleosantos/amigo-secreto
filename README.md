@@ -51,10 +51,10 @@ cd amigo-secreto
 ## 🎬 Demonstração
 
 ### 📸 Screenshot:
-(adicione aqui uma imagem da aplicação rodando — exemplo: ![Amigo Secreto](assets/screenshot.png))
+![Amigo Secreto](assets/screenshot.png))
 
 ### 🎥 Gif da funcionalidade:
-(ou até um gif mostrando o sorteio acontecendo — exemplo: ![Gif Demo](assets/gif-da-funcionalidade.gif))
+![Gif Demo](assets/gif-da-funcionalidade.gif))
 
 ## 🤝 Contribuições
 
